@@ -84,7 +84,7 @@ export const config: Options.Testrunner = {
     capabilities: [{
 
         "platformName": "Android",
-        "appium:app": "/home/warnner/Documentos/Estudos/QA/Ws/app/android/QA_Mocha.apk",
+        "appium:app": "/home/warnner/Documentos/Estudos/QA/qa_mocha_appium/app/android/QA_Mocha.apk",
         "appium:platformVersion": "12",
         "appium:deviceName": "emulator-5554",
         "appium:automationName": "UiAutomator2",
