@@ -1,4 +1,4 @@
-import apiDemos from '../screenobjects/testPage';
+import apiDemos from '../screenobjects/ApiDemosScreen';
 
 describe('My application', () => {
     it('Inspec name', async () => {
